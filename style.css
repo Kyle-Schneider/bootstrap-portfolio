@@ -1,0 +1,89 @@
+
+
+body {
+    float: center;
+    text-align: left;
+    background-image: url(https://static1.squarespace.com/static/57ef987a8419c2912d06ec0b/57effb3c197aeaadfd1f8f97/57f04852d2b8571a3cd2ef20/1475364950424/dark-grey-backgrounds-textures-the-art-mad-wallpapers.jpg?format=2500w);
+    background-repeat: no-repeat;
+
+}
+
+
+.navbar{
+    
+    padding:0;
+}
+
+.mynav .navbar-brand {
+    color:white; size: 8px;
+    background-color:teal;
+}
+
+.mynav .navbar-toggler {
+    color:teal;
+}
+
+
+ .mynav .navbar-nav {
+     background-color: white;
+     color:grey;
+
+ }
+
+ .container {
+     margin:15px;
+ }
+
+div {
+    float: center;
+    background-color: ghostwhite;
+}
+
+
+h5 {
+    color:teal;
+    border-bottom: 5px solid gray;
+}
+
+#footer {
+    color: grey;
+    text-align: center;
+    border-top: teal solid 10px;
+}
+
+
+.img{
+    position: relative;
+    margin: 20px 0 25px;
+    overflow: auto;
+    width: 350px;
+}
+
+.img h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+  }
+
+.btn{
+    background-color: teal;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width:
